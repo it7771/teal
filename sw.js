@@ -2,7 +2,7 @@ const CACHE_NAME = "untitled-v1";
 
 const FILES_TO_CACHE = [
   "./",
-  "./Untitled_beta45.html",
+  "./index.html",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png"
